@@ -1,0 +1,10 @@
+{
+  "name": "monospecs-demo",
+  "version": "1.0.0",
+  "description": "Monospecs demo project - multi-repository management example",
+  "scripts": {
+    "clone": "node scripts/clone-repos.js"
+  },
+  "keywords": ["monospecs", "demo", "multi-repo"],
+  "license": "MIT"
+}
